@@ -7,4 +7,4 @@ log = logging.getLogger(__name__)
 if __name__ == '__main__':
     logging.basicConfig()
     log = logging.getLogger('king')
-    log.info('I am the king of the world!')
+    log.info('I am still the king of the world!')
